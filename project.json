@@ -1,0 +1,17 @@
+{
+ "name": "dev-tools",
+ "description": "Enter your project description",
+ "author": {
+  "name": "\n",
+  "email": "\n"
+ },
+ "version": "0.1.0",
+ "binaryname": "dev-tools.exe",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ }
+}
