@@ -1,4 +1,4 @@
-module dev-tools.exe
+module dev-tools
 
 go 1.12
 
