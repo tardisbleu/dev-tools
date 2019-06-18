@@ -1,4 +1,4 @@
-module dev-tools
+module github.com/tardisbleu/dev-tools
 
 go 1.12
 
